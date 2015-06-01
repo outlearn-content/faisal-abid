@@ -5,7 +5,6 @@
 "title" : "7 Tips for a Node.js Padawan",
 "description" : "What I wish I knew when I started.",
 "homepage" : "https://medium.com/@faisalabid/7-tips-for-a-node-js-padawan-e7c0b0e5ce3c",
-"author" : "Faisal Abid",
 "freshnessDate" : 2013-09-11,
 "license" : "All Rights Reserved"
 }
