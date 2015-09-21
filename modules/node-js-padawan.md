@@ -4,6 +4,7 @@
 "version" : "0.0.1",
 "title" : "7 Tips for a Node.js Padawan",
 "description" : "What I wish I knew when I started.",
+"author" : "Faisal Abid",
 "homepage" : "https://medium.com/@faisalabid/7-tips-for-a-node-js-padawan-e7c0b0e5ce3c",
 "canonicalSource" : "https://medium.com/@faisalabid/7-tips-for-a-node-js-padawan-e7c0b0e5ce3c",
 "freshnessDate" : 2013-09-11,
